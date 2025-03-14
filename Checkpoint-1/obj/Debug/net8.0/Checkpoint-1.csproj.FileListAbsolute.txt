@@ -12,3 +12,4 @@ C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-S
 C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-Software-Development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.pdb
 C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-Software-Development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.genruntimeconfig.cache
 C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-Software-Development\Checkpoint-1\obj\Debug\net8.0\ref\Checkpoint-1.dll
+C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-Software-Development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.sourcelink.json
