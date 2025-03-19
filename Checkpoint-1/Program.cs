@@ -404,3 +404,22 @@ else
 {
     Console.WriteLine("Data inválida!");
 }
+
+//TimeOnly - Horário de funcionamento
+TimeOnly abertura = new TimeOnly(10, 30);
+TimeOnly fechamento = new TimeOnly(21, 00);
+
+Console.WriteLine($"Restaurante abre às: {abertura}");
+Console.WriteLine($"Restaurante fecha às: {fechamento}");
+
+//Simula um pedido
+DateTime agora = DateTime.Now;
+TimeOnly pedidoHora = TimeOnly.FromDateTime( agora );
+
+bool aberto = (pedidoHora >= abertura) && (pedidoHora < fechamento);
+Console.WriteLine($"O restaurante está aberto às {pedidoHora}? {aberto}");
+
+//TimeSpan - Total de horas trabalhadas
+TimeSpan duracaoTrabalho = new TimeSpan();
+duracaoTrabalho = fechamento - abertura;
+Console.WriteLine($"O restaurante fica aberto por {duracaoTrabalho} horas");
