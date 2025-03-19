@@ -423,3 +423,35 @@ Console.WriteLine($"O restaurante está aberto às {pedidoHora}? {aberto}");
 TimeSpan duracaoTrabalho = new TimeSpan();
 duracaoTrabalho = fechamento - abertura;
 Console.WriteLine($"O restaurante fica aberto por {duracaoTrabalho} horas");
+
+//DateOnly
+//solicita data de nascimento
+Console.Write("Digite sua data de nascimento (dd/mm/yyyy): ");
+string entrada = Console.ReadLine();
+
+if (DateOnly.TryParseExact(
+        entrada, "dd/MM/yyyy",
+        CultureInfo.InvariantCulture,
+        DateTimeStyles.None,
+        out DateOnly dateBirth))
+{
+    Console.WriteLine($"Data de nascimento registrada: {dateBirth}");
+    DateOnly today = DateOnly.FromDateTime(DateTime.Now);
+
+    Console.WriteLine(today);
+}
+else
+{
+    Console.WriteLine("Data inválida!");
+}
+
+//DateTimeOffset
+DateTimeOffset dataPedido = DateTimeOffset.Now;
+Console.WriteLine($"Horário do pedido (local): {dataPedido}");
+
+//DateTimeOffset e TimeZoneInfo
+TimeSpan deslocamento = dataPedido.Offset;
+
+TimeZoneInfo fusoLocal = TimeZoneInfo.Local;
+Console.WriteLine($"Fuso horário (UTC Offset): {deslocamento}");
+Console.WriteLine($"Nome do fuso horário: {fusoLocal.StandardName}");
