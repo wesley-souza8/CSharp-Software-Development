@@ -299,7 +299,6 @@ Uso de for, while ou do-while	2 pts
 Tipos de Dados das variáveis que foram utilizadas	2 pts
 Boas práticas: Nomes das variáveis e organização do cógigo	2 pts
 Total	10 pts
-*/
  
 static (double, double) Numeros()
 {
@@ -366,4 +365,42 @@ while (continuar) {
             Console.WriteLine($"\nOpção {escolha} inválida, por favor escolha um número válido");
             break;
     }
+}
+*/
+
+==================================== AULA 18/03/2025 ==========================================
+//DateTime - simular login user
+using System.Globalization;
+
+string usuario = "fabio.silva";
+DateTime ulitmoLogin = DateTime.Now;
+Console.WriteLine($"Usuário: {usuario}");
+Console.WriteLine($"Último login: {ulitmoLogin}");
+
+
+//DateTime - permitido cadastro, se maior de 18 anos
+Console.WriteLine("Digite sua data de nascimento");
+string input = Console.ReadLine();
+//converter para DateOnly
+if (DateOnly.TryParseExact(
+        input,"dd/MM/yyyy",
+        CultureInfo.InvariantCulture,
+        DateTimeStyles.None, 
+        out DateOnly dataNascimento))
+{
+    Console.WriteLine($"Data de nascimento: {dataNascimento}");
+    DateOnly hoje= DateOnly.FromDateTime(DateTime.Now);
+    int idade = hoje.Year - dataNascimento.Year;
+
+    if (hoje < dataNascimento.AddYears(idade))
+    {
+        idade--;
+    }
+    
+    Console.WriteLine($"O usuário tem {idade} anos");
+    Console.WriteLine(idade >= 18 ? "Cadastro permitido" : "Cadastro negado");
+}
+else
+{
+    Console.WriteLine("Data inválida!");
 }
