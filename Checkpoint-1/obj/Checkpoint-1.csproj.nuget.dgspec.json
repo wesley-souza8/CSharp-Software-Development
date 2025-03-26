@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Faculdade\\Engenharia de Software\\3° Ano\\Csharp Software Development\\CSharp-Software-Development\\Checkpoint-1\\Checkpoint-1.csproj": {}
+    "C:\\Faculdade\\Engenharia-de-Software\\3Ano\\csharp-software-development\\Checkpoint-1\\Checkpoint-1.csproj": {}
   },
   "projects": {
-    "C:\\Faculdade\\Engenharia de Software\\3° Ano\\Csharp Software Development\\CSharp-Software-Development\\Checkpoint-1\\Checkpoint-1.csproj": {
+    "C:\\Faculdade\\Engenharia-de-Software\\3Ano\\csharp-software-development\\Checkpoint-1\\Checkpoint-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Faculdade\\Engenharia de Software\\3° Ano\\Csharp Software Development\\CSharp-Software-Development\\Checkpoint-1\\Checkpoint-1.csproj",
+        "projectUniqueName": "C:\\Faculdade\\Engenharia-de-Software\\3Ano\\csharp-software-development\\Checkpoint-1\\Checkpoint-1.csproj",
         "projectName": "Checkpoint-1",
-        "projectPath": "C:\\Faculdade\\Engenharia de Software\\3° Ano\\Csharp Software Development\\CSharp-Software-Development\\Checkpoint-1\\Checkpoint-1.csproj",
+        "projectPath": "C:\\Faculdade\\Engenharia-de-Software\\3Ano\\csharp-software-development\\Checkpoint-1\\Checkpoint-1.csproj",
         "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
-        "outputPath": "C:\\Faculdade\\Engenharia de Software\\3° Ano\\Csharp Software Development\\CSharp-Software-Development\\Checkpoint-1\\obj\\",
+        "outputPath": "C:\\Faculdade\\Engenharia-de-Software\\3Ano\\csharp-software-development\\Checkpoint-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wesley\\AppData\\Roaming\\NuGet\\NuGet.Config"

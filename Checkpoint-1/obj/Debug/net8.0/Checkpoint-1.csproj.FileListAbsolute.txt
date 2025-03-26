@@ -13,3 +13,18 @@ C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-S
 C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-Software-Development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.genruntimeconfig.cache
 C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-Software-Development\Checkpoint-1\obj\Debug\net8.0\ref\Checkpoint-1.dll
 C:\Faculdade\Engenharia de Software\3° Ano\Csharp Software Development\CSharp-Software-Development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.sourcelink.json
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.AssemblyInfoInputs.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.AssemblyInfo.cs
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.csproj.CoreCompileInputs.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.sourcelink.json
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\refint\Checkpoint-1.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.pdb
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\bin\Debug\net8.0\Checkpoint-1.exe
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\bin\Debug\net8.0\Checkpoint-1.deps.json
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\bin\Debug\net8.0\Checkpoint-1.runtimeconfig.json
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\bin\Debug\net8.0\Checkpoint-1.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\bin\Debug\net8.0\Checkpoint-1.pdb
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\Checkpoint-1.genruntimeconfig.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\Checkpoint-1\obj\Debug\net8.0\ref\Checkpoint-1.dll

@@ -1,0 +1,15 @@
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\2025_02_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\2025_02_21.AssemblyInfoInputs.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\2025_02_21.AssemblyInfo.cs
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\2025_02_21.csproj.CoreCompileInputs.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\2025_02_21.sourcelink.json
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\bin\Debug\net8.0\2025_02_21.exe
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\bin\Debug\net8.0\2025_02_21.deps.json
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\bin\Debug\net8.0\2025_02_21.runtimeconfig.json
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\bin\Debug\net8.0\2025_02_21.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\bin\Debug\net8.0\2025_02_21.pdb
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\2025_02_21.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\refint\2025_02_21.dll
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\2025_02_21.pdb
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\2025_02_21.genruntimeconfig.cache
+C:\Faculdade\Engenharia-de-Software\3Ano\csharp-software-development\2025_02_21\obj\Debug\net8.0\ref\2025_02_21.dll
