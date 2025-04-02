@@ -16,7 +16,31 @@ namespace Model
         private string CPF
         {
             get {return cpf;}
-            set {cpf = value;}
+            set 
+            {
+                string digitos = "";
+                                    
+                foreach (char c in value)
+                {
+                    //Verifica se é número
+                    if (char.IsDigit(c))
+                    {
+                        digitos += c;
+                    }
+                }
+                
+                //Verifica se tem 11 digitos
+                if (digitos.Length != 11)
+                {
+                    throw new ArgumentException("CPF Inválido!");
+                }
+
+                cpf = string.Format("{0}.{1}.{2}-{3}",
+                                        digitos.Substring(0,3),
+                                        digitos.Substring(3,3),
+                                        digitos.Substring(6,3),
+                                        digitos.Substring(9,2));
+            }
         }
         private string Celular
         {

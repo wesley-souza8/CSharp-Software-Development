@@ -19,9 +19,16 @@ if (DateOnly.TryParseExact(
         DateTimeStyles.None, 
         out DateOnly dataUltCompra))
 {
-    Cliente cliente = new Cliente();
-    cliente.Cadastar(nome, cpf, celular, dataUltCompra);
-    Console.WriteLine(cliente.ExibirInformacoes());
+    try
+    {
+        Cliente cliente = new Cliente();
+        cliente.Cadastar(nome, cpf, celular, dataUltCompra);
+        Console.WriteLine(cliente.ExibirInformacoes());
+    }
+    catch (Exception ex)
+    {
+       Console.WriteLine(ex.Message);
+    }
 }
 else
 {
