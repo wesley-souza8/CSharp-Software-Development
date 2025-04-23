@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\2025_04_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\2025_04_22.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\2025_04_22.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\2025_04_22.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\2025_04_22.sourcelink.json
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\bin\Debug\net8.0\2025_04_22.exe
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\bin\Debug\net8.0\2025_04_22.deps.json
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\bin\Debug\net8.0\2025_04_22.runtimeconfig.json
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\bin\Debug\net8.0\2025_04_22.dll
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\bin\Debug\net8.0\2025_04_22.pdb
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\2025_04_22.dll
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\refint\2025_04_22.dll
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\2025_04_22.pdb
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\2025_04_22.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\New folder\CSharp-Software-Development\2025_04_22\obj\Debug\net8.0\ref\2025_04_22.dll
