@@ -14,7 +14,7 @@ namespace Model
         }
 
         public string Display(){
-            return $"Produto: {Nome} Quantidade: {Quantidade} {ProdutoPreco.Display()}";
+            return $"Produto: {Nome} Quantidade: {Quantidade.ToString("N0")} {ProdutoPreco.Display()}";
         }
     }
 }

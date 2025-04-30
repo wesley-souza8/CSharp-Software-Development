@@ -2,12 +2,14 @@
 
 List<Product> produtoList = new List<Product>();
 
+Console.Clear();
+
 Console.Write("Quantos produtos você deseja cadastrar? ");
 int numProdutos = int.Parse(Console.ReadLine());
 
 for (int i = 0; i < numProdutos; i++){
     
-    Console.WriteLine($"Cadastro do Produto {i + 1}");
+    Console.WriteLine($"\nCadastro do Produto {i + 1}");
     Console.Write("Digite o nome do produto: ");
     string produtoNome = Console.ReadLine();
 
